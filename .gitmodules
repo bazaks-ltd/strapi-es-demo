@@ -1,0 +1,3 @@
+[submodule "plugins/elastic"]
+	path = plugins/elastic
+	url = git@github.com:bazaks-ltd/strapi-plugin-elastic.git
